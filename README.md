@@ -1,7 +1,5 @@
 # Talks That Stayed
 
-![](http://www.clarity-partners.uk/whatwedo/talksandseminars_files/small_168.png)
-
 This is my kind-of-awesome-list with the talks I've saw and stayed with me.
 
 ### IT
